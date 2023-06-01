@@ -1,2 +1,5 @@
 # react-vite-master
-react development master project using vite
+run npm i
+run vite
+
+eslint is enabled
